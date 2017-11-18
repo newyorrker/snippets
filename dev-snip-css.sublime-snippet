@@ -2,16 +2,16 @@
 
 <snippet> 	<!-- Pseudo Element -->
 	<content><![CDATA[
-.${1:element}:after {
+&:after {
 	display: block;
 	content: "";
-	width: px;
-	height: px;
+	width: ${2}px;
+	height: ${2}px;
 }
-.${2:element}:after {
+&:after {
 	position: absolute;
-	top: px;
-	left: px;
+	top: 0px;
+	left: 0px;
 }
 ]]></content>
 

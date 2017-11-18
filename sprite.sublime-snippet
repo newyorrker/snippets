@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+@include sprite(\$${1:filename});
+]]></content>
+<tabTrigger>sprite</tabTrigger>
+<description>Making sprite</description>
+<scope>source.scss, meta.at-rule.include.scss, keyword.control.at-rule.include.scss, punctuation.definition.keyword.scss, source.css</scope>
+</snippet>
