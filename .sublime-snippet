@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+.element {
+	top: 50%;
+	left: 50%;
+	transform: translate(-50% -50%);
+}
+]]></content>
+<tabTrigger></tabTrigger>
+<description></description>
+<scope>source.scss, entity.other.attribute-name.class.css, punctuation.definition.entity.css</scope>
+</snippet>

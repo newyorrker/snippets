@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+.fa.icon-name:before {
+	content: "\f09b";
+	font-size: 14rem;
+}
+]]></content>
+
+	<tabTrigger>faw</tabTrigger>
+	<scope>source.css,source.scss</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50% -50%);
+]]></content>
+<tabTrigger>abcenter</tabTrigger>
+<description>Absolute element to center</description>
+<scope>source.scss, source.css</scope>
+</snippet>

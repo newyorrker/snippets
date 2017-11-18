@@ -1,0 +1,21 @@
+<snippet> 	<!-- font awesome snipet -->
+	<content>
+		<![CDATA[
+<div class="bc">
+	<div class="container">
+		<ul>
+			<li class="bc__item">
+				<a href="index.html">Главная</a>
+			</li>
+			<li class="bc__item">
+				<a href="">Раздел</a>
+			</li>
+		</ul>
+	</div>
+</div>
+		]]>
+	</content>
+
+	<tabTrigger>bc</tabTrigger>
+	<scope>text.html, source.Nunjucks</scope>
+</snippet>

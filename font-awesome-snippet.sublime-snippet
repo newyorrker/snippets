@@ -1,0 +1,8 @@
+<snippet> 	<!-- font awesome snipet -->
+	<content><![CDATA[
+<i class="fa ${1:icon-name}"></i>
+]]></content>
+
+	<tabTrigger>faw</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

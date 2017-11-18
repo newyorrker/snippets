@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+]]></content>
+<tabTrigger>abvert</tabTrigger>
+<description>Absolute element vertical center</description>
+<scope>source.css, source.scss, meta.property-list.scss</scope>
+</snippet>

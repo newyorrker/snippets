@@ -1,0 +1,15 @@
+
+
+<snippet> 	<!-- Pseudo Element -->
+	<content><![CDATA[
+.btn {
+	font-size: 14px;
+	font-weight: bold;
+	border: none;
+}
+]]></content>
+
+	<tabTrigger>btn</tabTrigger>
+	<scope>source.css,source.scss</scope>
+</snippet>
+

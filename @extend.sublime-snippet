@@ -1,0 +1,10 @@
+<snippet>
+<content>
+<![CDATA[
+@extend ${ }
+]]>
+</content>
+<tabTrigger>ext</tabTrigger>
+<description></description>
+<scope>source.scss, meta.at-rule.include.scss, keyword.control.at-rule.include.scss, punctuation.definition.keyword.scss</scope>
+</snippet>

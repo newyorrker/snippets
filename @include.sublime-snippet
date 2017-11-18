@@ -1,0 +1,11 @@
+<snippet>
+<content>
+<![CDATA[
+@include ${ }
+]]>
+
+</content>
+<tabTrigger>include</tabTrigger>
+<description></description>
+<scope>source.scss, meta.at-rule.include.scss, keyword.control.at-rule.include.scss, punctuation.definition.keyword.scss</scope>
+</snippet>
